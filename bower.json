@@ -6,6 +6,7 @@
     "gsap": "~1.17.0",
     "pixi": "~3.0.6",
     "dat.gui": "*",
-    "stats.js": "*"
+    "stats.js": "*",
+    "octicons": "~2.4.1"
   }
 }

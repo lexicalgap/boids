@@ -112,7 +112,7 @@ function init () {
   renderer = PIXI.autoDetectRenderer(window.innerWidth, window.innerHeight);
 
   console.log('Using', renderer);
- 
+
   renderer.view.style.display = 'block';
   document.body.appendChild(renderer.view);
 
@@ -140,7 +140,7 @@ function init () {
 
   $(window).on('resize', windowOnResize);
   windowOnResize();
-  
+
   render();
 }
 
@@ -209,7 +209,7 @@ function windowOnResize() {
   boidsContainer.scale.y = curScale;
 
   coef = 1 / curScale;
-  
+
   boidsLimit = {
     top: -halfHeight * coef - spacing,
     bottom: halfHeight * coef + spacing,
