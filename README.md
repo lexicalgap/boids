@@ -1,6 +1,7 @@
 # Boids
 Experiment using [PIXI][pixi] and Craig Reynolds' Boids.
 
+![Boids](http://puga.com.br/play/boids/images/boids.png)
 
 Make sure you have [Yo][yo], [Bower][bower] and [Gulp][gulp] installed.
 
