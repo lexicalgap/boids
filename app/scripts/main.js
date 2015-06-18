@@ -19,7 +19,7 @@ function setupStats() {
   var st = document.createElement('div');
   stats = new Stats();
   stats.domElement.style.position = 'absolute';
-  stats.domElement.style.top = '0px';
+  stats.domElement.style.bottom = '0px';
 
   document.body.appendChild(st);
   st.appendChild(stats.domElement);
