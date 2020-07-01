@@ -20,7 +20,7 @@ How to run:
 
 [boids]: https://en.wikipedia.org/wiki/Boids
 [bower]: http://bower.io
-[demo]: http://lexicalgap.com.au/playground/boids/
+[demo]: https://lab.puga.com.br/boids/
 [gulp]: http://gulpjs.com
 [pixi]: http://www.pixijs.com/
 [yo]: http://yeoman.io/
