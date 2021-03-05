@@ -1,7 +1,7 @@
 # Boids
 Experiment using [PIXI][pixi] and Craig Reynolds' Boids.
 
-![Boids](http://puga.com.br/play/boids/images/boids.png)
+![Boids](https://lab.puga.com.br/boids/images/boids.png)
 
 ##### [Live demo][demo]
 
